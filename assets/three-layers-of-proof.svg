@@ -1,0 +1,49 @@
+<svg viewBox="0 0 1200 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">How Aegis gives proof</title>
+<desc id="desc">Layer 1 checks that the machine is genuine and not changed. Layer 2 ties the workload identity to the machine and the place. Layer 3 checks prompts and outputs and purges raw data. The result is a signed evidence bundle for an auditor.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#2d3142"/>
+  </marker>
+  <marker id="arrowMuted" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#7a8399"/>
+  </marker>
+  <marker id="arrowAccent" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#eb6c36"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1200" height="336" fill="#f5f5f5"/>
+<text x="40" y="44" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="28" fill="#2d3142">How Aegis gives proof</text>
+<text x="40" y="64" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="9" letter-spacing="0.06em" fill="#7a8399">THREE LAYERS, FROM THE CHIP TO THE PROMPT</text>
+<rect x="40" y="112" width="250" height="84" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="46" y="118" width="48" height="16" rx="4" fill="#ececec"/>
+<text x="70.0" y="130" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LAYER 1</text>
+<text x="165.0" y="151.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Hardware</text>
+<text x="165.0" y="164.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">machine genuine, not changed</text>
+<line x1="290" y1="154" x2="326" y2="154" stroke="#2d3142" stroke-width="1" marker-end="url(#arrow)"/>
+<rect x="330" y="112" width="250" height="84" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="336" y="118" width="48" height="16" rx="4" fill="#ececec"/>
+<text x="360.0" y="130" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LAYER 2</text>
+<text x="455.0" y="151.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Identity</text>
+<text x="455.0" y="164.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">tied to machine and place</text>
+<line x1="580" y1="154" x2="616" y2="154" stroke="#2d3142" stroke-width="1" marker-end="url(#arrow)"/>
+<rect x="620" y="112" width="250" height="84" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="626" y="118" width="48" height="16" rx="4" fill="#ececec"/>
+<text x="650.0" y="130" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LAYER 3</text>
+<text x="745.0" y="151.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Governance</text>
+<text x="745.0" y="164.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">prompts checked, raw data purged</text>
+<line x1="870" y1="154" x2="906" y2="154" stroke="#2d3142" stroke-width="1" marker-end="url(#arrow)"/>
+<rect x="910" y="112" width="250" height="84" rx="6" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<rect x="916" y="118" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="931.0" y="130" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">OUT</text>
+<text x="1035.0" y="151.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Evidence bundle</text>
+<text x="1035.0" y="164.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">signed proof for an auditor</text>
+<text x="600" y="240" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="9" font-weight="600" letter-spacing="0.06em" fill="#7a8399">THE PROOF SHOWS WHERE AND HOW. IT DOES NOT SHOW THE RAW DATA.</text>
+<line x1="40" y1="264" x2="1160" y2="264" stroke="rgba(45,49,66,0.12)" stroke-width="1"/>
+<text x="40" y="290" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" font-weight="600" letter-spacing="0.1em" fill="#7a8399">KEY</text>
+<rect x="120" y="280" width="48" height="16" rx="4" fill="#ececec"/>
+<text x="144.0" y="292" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LAYER 1</text>
+<text x="178" y="292" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">one layer of the source design</text>
+<rect x="640.0" y="280" width="30" height="16" rx="4" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<text x="680.0" y="292" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">what you show an auditor</text>
+</svg>
