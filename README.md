@@ -14,7 +14,7 @@ An AI agent sends data to a model, to tools, to storage, and to logs. Each of th
 
 ## Who is it for?
 
-This guide is for small teams and solo builders who put AI agents into real work. For example, an agent that reads customer messages, uses personal data, or works for a client in a different country. You do not need special hardware to use the skill. The skill uses the open [Agent Skills](https://agentskills.io) format (`SKILL.md`), so it works with Claude, Codex, GitHub Copilot, and other AI agents that support this format.
+This guide is for small teams, teams that grow quickly, and solo builders who put AI agents into real work. You do not need to be a specialist in risk, cybersecurity, governance, or safety. For example, an agent that reads customer messages, uses personal data, or works for a client in a different country. You do not need special hardware to use the skill. The skill uses the open [Agent Skills](https://agentskills.io) format (`SKILL.md`), so it works with Claude, Codex, GitHub Copilot, and other AI agents that support this format.
 
 The source project is for large, regulated organizations, for example banks and hospitals. Its reference implementation needs a Linux machine with a TPM 2.0 chip. This guide uses its ideas as questions. It does not tell you to install the source project. If your agent handles regulated data, the source project shows what strong proof looks like.
 
