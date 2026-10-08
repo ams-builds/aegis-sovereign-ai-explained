@@ -115,4 +115,4 @@ Changes from the source:
 
 ---
 
-*New words? The [Jargon Buster](JARGON.md) gives plain-English explanations of data residency, jurisdiction, attestation, TPM, evidence bundle, and more.*
+*New words? The [Jargon Buster](JARGON.md) gives simple explanations of data residency, jurisdiction, attestation, TPM, evidence bundle, and more.*

@@ -1,6 +1,6 @@
 # Jargon Buster
 
-Plain-English explanations of the technical words in this project. The README uses these words only when necessary. This file explains each word exactly.
+Simple meanings of the technical words in this project. The README uses these words only when necessary. This file explains each word exactly.
 
 **Attestation**
 A signed statement from a machine about its own state. For example, a TPM chip can sign a statement that the software on the machine is the approved software.
