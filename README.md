@@ -2,11 +2,11 @@
 
 ## What is it?
 
-This repository is a plain-language guide and an agent skill about data sovereignty for AI agents. Both are based on AegisSovereignAI, an open design and reference implementation. AegisSovereignAI shows how to prove where an AI workload ran, on which machine, and under which policy. This guide changes those ideas into four questions that a small team can answer for its own agent.
+This repository is a simple guide and a ready-made skill for your AI agent about data sovereignty for AI agents. Both are based on AegisSovereignAI, an open design and reference implementation. AegisSovereignAI shows how to prove where an AI workload ran, on which machine, and under which policy. This guide changes those ideas into four questions that a small team can answer for its own agent.
 
 ![Your AI agent at work raises four questions: where is the data processed, which law applies, can you prove where, and can you prove it with less personal data.](assets/where-does-the-data-go.svg)
 
-*Do you want the technical words in plain English? Refer to the [Jargon Buster](JARGON.md).*
+*Do you want simple meanings for the technical words? Refer to the [Jargon Buster](JARGON.md).*
 
 ## What problem does it solve?
 
@@ -101,7 +101,7 @@ The skill starts automatically. You do not need to use its name.
 
 This guide is based on [AegisSovereignAI](https://github.com/lfedgeai/AegisSovereignAI), a project of [InfiniEdge AI](https://github.com/lfedgeai) at LF Edge. Its main contributor is [ramkri123](https://github.com/ramkri123). This guide explains the source at commit `0917127` (30 August 2026), with the Hybrid Cloud PoC at version 0.2.0. That project uses the Apache License 2.0. This repository uses the same license. Refer to [LICENSE](LICENSE) and [NOTICE](NOTICE).
 
-This is an independent plain-language guide. It is not an official part of the source project. For the full design, use the source documents.
+This is an independent guide. It is not an official part of the source project. For the full design, use the source documents.
 
 Changes from the source:
 
